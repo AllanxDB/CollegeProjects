@@ -1,0 +1,1 @@
+This portfolio is still a draft, and I plan to improve it by adding real completed projects, more detailed descriptions, and possibly links to code or demos. I also want to organize it better and make it more visually appealing. Overall, this is a strong starting point that I can continue building as I gain more experience.
